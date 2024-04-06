@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dawidemm
-- I’m currently learning Machine Learning / Computer Vision Engineer
+- I am Machine Learning / Computer Vision Engineer
 - How to reach me dawid.mazur@icloud.com
 
 <!---
