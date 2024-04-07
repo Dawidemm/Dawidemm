@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dawidemm
 - I am Machine Learning / Computer Vision Engineer
-- How to reach me: dawid.mazur@icloud.com or https://www.linkedin.com/in/dawidmazur1999/
+- How to reach me: dawid.mazur@icloud.com
 
 <!---
 Dawidemm/Dawidemm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
